@@ -8,8 +8,8 @@ Thank you for your interest in contributing to our project! We are excited to co
 1. **Fork the repository**: Click on the "Fork" button at the top right of this repository's page to create your own copy of the project.
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/HarshSharmaIN/Web-Dev-Hub.git
-   cd Web-Dev-Hub
+   git clone https://github.com/pawanrajsingh2088/Java-Minor-Projects.git
+   cd Java Minor Project
    ```
 3. **Create a new branch**:
    ```bash
