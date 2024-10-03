@@ -1,7 +1,7 @@
 
 # Contributing to Hacktoberfest 2024: Java Minor Projects
 
-Thank you for your interest in contributing to our project! We are excited to collaborate with developers of all skill levels during Hacktoberfest 2024. To ensure smooth and effective collaboration, please follow the guidelines outlined below.
+Thank you for your interest in contributing to our project! We are excited to collaborate with coders of all skill levels during Hacktoberfest 2024. To ensure smooth and effective collaboration, please follow the guidelines outlined below.
 
 ## How to Contribute
 
@@ -15,7 +15,7 @@ Thank you for your interest in contributing to our project! We are excited to co
    ```bash
    git checkout -b your-branch-name
    ```
-   Name your branch according to the project you are contributinge e.g TodoList-App, Weather-App.
+   Name your branch according to the project you are contributinge.
 
 4. **Make your changes**: Ensure that your code adheres to best practices and includes appropriate documentation or comments.
 
