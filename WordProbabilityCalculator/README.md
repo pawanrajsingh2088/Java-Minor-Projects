@@ -1,6 +1,6 @@
 # Word Probability Calculator
 
-This repository contains three implementations of a Word Probability Calculator in different programming languages: Java. The calculator analyzes a collection of text documents, calculates the probability of each word occurring, and displays the top 5 words with their probabilities and counts.
+This repository contains implementation of a Word Probability Calculator in  Java. The calculator analyzes a collection of text documents, calculates the probability of each word occurring, and displays the top 5 words with their probabilities and counts.
 
 ## Java Implementation
 
