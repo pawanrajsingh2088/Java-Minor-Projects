@@ -15,7 +15,7 @@ Thank you for your interest in contributing to our project! We are excited to co
    ```bash
    git checkout -b your-branch-name
    ```
-   Name your branch according to the project you are contributinge.
+   Name your branch according to the project you are contributing.
 
 4. **Make your changes**: Ensure that your code adheres to best practices and includes appropriate documentation or comments.
 
